@@ -1,0 +1,19 @@
+{
+  "name": "legaldoctor",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/legaldoctor/legaldoctor#readme",
+  "bugs": {
+    "url": "https://github.com/legaldoctor/legaldoctor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legaldoctor/legaldoctor.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
